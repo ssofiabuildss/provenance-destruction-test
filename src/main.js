@@ -290,6 +290,10 @@ function renderResults(results, baseline) {
                 <h4>Why?</h4>
 
                 <p>${reason}</p>
+<p>
+  In simple terms: We could not find the same verification information that was available in the Original. This does not mean the image is fake.
+</p>
+
 
                 ${
                   status === 'NOT VERIFIABLE'
