@@ -1,0 +1,17 @@
+{
+  "name": "provenance-destruction-test",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "@contentauth/c2pa-web": "^0.14.3"
+  }
+}
