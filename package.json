@@ -12,6 +12,7 @@
     "vite": "^8.2.2"
   },
   "dependencies": {
-    "@contentauth/c2pa-web": "^0.14.3"
+    "@contentauth/c2pa-web": "^0.14.3",
+    "exifreader": "^4.44.0"
   }
 }
